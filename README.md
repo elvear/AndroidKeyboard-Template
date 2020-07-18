@@ -32,5 +32,4 @@ Features Summary:
 <li>Settings to control Input Methods and other features</li>
 </ul>
 
-The application is available on Play Store: <a href="https://play.google.com/store/apps/details?id=com.sunzala.afghankeyboard" >Afghan Keyboard</a>
 
